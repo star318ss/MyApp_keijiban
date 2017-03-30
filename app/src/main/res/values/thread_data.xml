@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="t0">
+        <item>＜2018＞履修登録スレ</item>
+        <item>【速報】成績報告スレ</item>
+    </string-array>
+    <string-array name="t1">
+        <item>【ＲＴ】電気回路【１年】</item>
+        <item>【ＲＴ】電子工学基礎実験【２年】</item>
+        <item>【ＲＴ】電子情報実験【３年】</item>
+    </string-array>
+    <string-array name="t2">
+        <item>MedicalDeviceDevelopper</item>
+    </string-array>
+    <string-array name="t3">
+        <item>＜2018＞就職セミナー情報</item>
+        <item>＜2018＞インターンシップ</item>
+    </string-array>
+    <string-array name="t4">
+        <item>＜2018＞鳩祭</item>
+        <item>＜2017＞D-exp</item>
+        <item>＜2018＞体育祭</item>
+    </string-array>
+
+
+</resources>

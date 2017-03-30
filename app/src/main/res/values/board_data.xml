@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="board_datas">
+        <item>学生生活板</item>
+        <item>授業板</item>
+        <item>サークル板</item>
+        <item>就職板</item>
+        <item>行事板</item>
+    </string-array>
+
+
+</resources>
